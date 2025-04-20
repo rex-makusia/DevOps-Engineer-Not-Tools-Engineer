@@ -13,7 +13,7 @@ The Official Notes for DevOps Engineer Not Tools Engineer
    - [Key Focus Idea Three](Strategic-Thinking.md)
 
 4. Engineering Excellence
-   - [Key Focus Idea Four](Key-ideas-four.md)
+   - [Key Focus Idea Four](Engineering-Excellence.md)
 
 5. Professional Development
    - [Key Focus Idea Five](Key-ideas-five.md)
