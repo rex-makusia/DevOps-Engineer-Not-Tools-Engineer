@@ -10,4 +10,4 @@ The Official Notes for DevOps Engineer Not Tools Engineer
    - [Key Focus Idea Two](Key-ideas-Two.md)
 
 3. Strategic Thinking
-   - [Key Focus Idea Two](Key-ideas-Three.md)
+   - [Key Focus Idea Three](Key-ideas-Three.md)
