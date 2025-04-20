@@ -31,4 +31,4 @@ The Official Notes for DevOps Engineer Not Tools Engineer
    - [Key Focus Idea Nine](Business-Alignment.md)
   
 10. Leadership and Culture
-    - [Key Focus Idea Ten](Leadership -and-Culture.md)
+    - [Key Focus Idea Ten](Leadership-and-Culture.md)
