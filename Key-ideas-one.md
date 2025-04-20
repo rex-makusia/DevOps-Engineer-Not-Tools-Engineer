@@ -2,7 +2,7 @@
 Concentrate on solving actual business and technical challenges rather than becoming overly specialized in specific DevOps tools.
 
  ## 2. Understand principles over products
-Master fundamental engineering principles that transcend specific tools—these skills remain valuable even as technology changes.
+Master fundamental engineering principles that transcend specific tools-these skills remain valuable even as technology changes.
 
  ## 3. Avoid tool-centric thinking
 Don't let your identity or value proposition become tied to expertise in particular DevOps tools that may become obsolete.
