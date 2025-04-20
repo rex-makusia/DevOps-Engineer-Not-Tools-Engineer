@@ -8,3 +8,6 @@ The Official Notes for DevOps Engineer Not Tools Engineer
   
 2. Technical Approaches
    - [Key Focus Idea Two](Key-ideas-Two.md)
+
+3. Strategic Thinking
+   - [Key Focus Idea Two](Key-ideas-Three.md)
