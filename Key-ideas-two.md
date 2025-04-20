@@ -1,7 +1,7 @@
 ## 11. Root cause analysis
 Cultivate the ability to look beyond symptoms to identify and solve underlying problems, rather than applying tool-based band-aids.
 
-## 12.Technology evaluation framework
+## 12. Technology evaluation framework
 Develop a consistent methodology for assessing new technologies based on business value, not hype cycles.
 
 ## 13. Documentation as design 
