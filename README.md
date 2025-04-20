@@ -18,17 +18,17 @@ The Official Notes for DevOps Engineer Not Tools Engineer
 5. Professional Development
    - [Key Focus Idea Five](Key-ideas-five.md)
      
-6. System Design
+6. Communication & Collaboration
    - [Key Focus Idea Six](Key-ideas-six.md)
 
 7. System Design
    - [Key Focus Idea Seven](Key-ideas-seven.md)
      
-8. Communication & Collaboration
+8. Problem Solving
    - [Key Focus Idea Eight](Key-ideas-eight.md)
 
-9. Communication & Collaboration
+9. Business Alignment
    - [Key Focus Idea Nine](Key-ideas-nine.md)
   
-10. Communication & Collaboration
+10. Leadership and Culture
     - [Key Focus Idea Ten](Key-ideas-ten.md)
