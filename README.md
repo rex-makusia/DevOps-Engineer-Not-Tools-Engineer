@@ -1,4 +1,4 @@
-# DevOps Engineer **Not** Tools Engineer
+# DevOps Engineer ***NOT*** Tools Engineer
 The Official Notes for DevOps Engineer Not Tools Engineer
 
 ## Contents
