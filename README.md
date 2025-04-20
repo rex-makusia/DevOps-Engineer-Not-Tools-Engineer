@@ -31,4 +31,4 @@ The Official Notes for DevOps Engineer Not Tools Engineer
    - [Key Focus Idea Nine](Key-ideas-nine.md)
   
 10. Communication & Collaboration
-   - [Key Focus Idea Ten](Key-ideas-ten.md)
+    - [Key Focus Idea Ten](Key-ideas-ten.md)
