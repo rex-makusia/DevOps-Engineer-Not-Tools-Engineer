@@ -17,3 +17,6 @@ The Official Notes for DevOps Engineer Not Tools Engineer
 
 5. Professional Development
    - [Key Focus Idea Five](Key-ideas-five.md)
+     
+6. System Design
+   - [Key Focus Idea Six](Key-ideas-six.md)
