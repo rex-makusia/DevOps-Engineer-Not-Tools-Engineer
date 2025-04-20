@@ -16,9 +16,11 @@ Integrate security thinking throughout your engineering approach rather than tre
 ## 16. Performance engineering: 
 Understand system performance characteristics at a fundamental level rather than relying solely on monitoring tools.
 
-## 17. Technical debt management: Develop strategies for maintaining long-term system health while balancing short-term delivery needs.
+## 17. Technical debt management: 
+Develop strategies for maintaining long-term system health while balancing short-term delivery needs.
 
-## 18.Infrastructure as code philosophy: Focus on the principles behind IaC rather than specific tools—understand idempotency, versioning, and state management.
+## 18.Infrastructure as code philosophy: 
+Focus on the principles behind IaC rather than specific tools—understand idempotency, versioning, and state management.
 
 ## 19. Metric-driven optimization: 
 Develop skills in identifying and tracking meaningful metrics that drive actual business outcomes rather than vanity metrics.
