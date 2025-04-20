@@ -4,10 +4,10 @@ The Official Notes for DevOps Engineer Not Tools Engineer
 ## Contents
 
 1. Foundational Mindset
-   - [Key Focus Idea One](Key-ideas-One.md)
+   - [Key Focus Idea One](Key-ideas-one.md)
   
 2. Technical Approaches
-   - [Key Focus Idea Two](Key-ideas-Two.md)
+   - [Key Focus Idea Two](Key-ideas-two.md)
 
 3. Strategic Thinking
-   - [Key Focus Idea Three](Key-ideas-Three.md)
+   - [Key Focus Idea Three](Key-ideas-three.md)
