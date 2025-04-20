@@ -20,8 +20,8 @@ Understand system performance characteristics at a fundamental level rather than
 
 ## 18.Infrastructure as code philosophy: Focus on the principles behind IaC rather than specific tools—understand idempotency, versioning, and state management.
 
-## 19. Metric-driven optimization: Develop skills in identifying and tracking meaningful metrics that drive actual business outcomes rather than vanity metrics.
-Complexity management: Learn to recognize and minimize unnecessary complexity, which often comes from layering tools without clear purpose.
+## 19. Metric-driven optimization: 
+Develop skills in identifying and tracking meaningful metrics that drive actual business outcomes rather than vanity metrics.
 
 ## 20.Complexity management: 
 Learn to recognize and minimize unnecessary complexity, which often comes from layering tools without clear purpose.
